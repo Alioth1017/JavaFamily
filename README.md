@@ -32,7 +32,7 @@
 #### [后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
 
 #### [脑图在线编辑地址](https://www.processon.com/view/5e86b713e4b0bf3ebcf4e376)
-
+- [讯飞星辰](https://juejin.cn/post/7562737437380034612)
 - [学习路线](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 
 - Java基础核心串讲
@@ -136,7 +136,6 @@
   - [数据库性能调优](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/db/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
   - [分库分表](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/db/%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8.md)
   - [数据库面试题](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/db/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-  - [OceanBase 4.3 发版｜实时分析 AP 的里程碑版本](https://github.com/oceanbase)
 
 - 大数据
   -  [大数据体系](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)

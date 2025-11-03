@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcf4b41-843c-4003-ab71-d8f2ae3fc325" name="Changes" comment="1" />
+    <list default="true" id="cfcf4b41-843c-4003-ab71-d8f2ae3fc325" name="Changes" comment="docs(README): remove image and update WeChat link in series descriptionRemoved an image from the README.md file that was aligned to the center and updated the WeChat link&#10;to encourage readers to follow the series through the provided WeChat account or contact for&#10;further suggestions. The update refines the README by streamlining the introductory section andenhancing reader engagement options.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1720708986075</updated>
       <workItem from="1720708987288" duration="924000" />
+      <workItem from="1725441877497" duration="1373000" />
+      <workItem from="1726665569845" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -88,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720709175765</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="docs(README): remove image and update WeChat link in series descriptionRemoved an image from the README.md file that was aligned to the center and updated the WeChat link&#10;to encourage readers to follow the series through the provided WeChat account or contact for&#10;further suggestions. The update refines the README by streamlining the introductory section andenhancing reader engagement options.">
+      <option name="closed" value="true" />
+      <created>1725441940766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725441940766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs(README): remove image and update WeChat link in series descriptionRemoved an image from the README.md file that was aligned to the center and updated the WeChat link&#10;to encourage readers to follow the series through the provided WeChat account or contact for&#10;further suggestions. The update refines the README by streamlining the introductory section andenhancing reader engagement options.">
+      <option name="closed" value="true" />
+      <created>1725441956012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725441956012</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="docs(README): remove image and update WeChat link in series descriptionRemoved an image from the README.md file that was aligned to the center and updated the WeChat link&#10;to encourage readers to follow the series through the provided WeChat account or contact for&#10;further suggestions. The update refines the README by streamlining the introductory section andenhancing reader engagement options." />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(README): remove image and update WeChat link in series descriptionRemoved an image from the README.md file that was aligned to the center and updated the WeChat link&#10;to encourage readers to follow the series through the provided WeChat account or contact for&#10;further suggestions. The update refines the README by streamlining the introductory section andenhancing reader engagement options." />
   </component>
 </project>
